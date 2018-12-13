@@ -1,0 +1,270 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,description_json,1000_png,1500_png,2000_png,3000_png,5000_png,免费抽奖_png,关闭_png,发光色_png,3颗钻石_png,一袋金币_png,宝箱_png,记牌器_png,道具盒_png,金币_png,金币箱_png,钻石_png,底板_png,数字底板_png,文案_png,文案框_png,星星_png,未标题-1_png,标题_png,箭头_png,转盘_png,转盘底板_png,选中框_png,金币框_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "1000_png",
+			"type": "image",
+			"url": "assets/rotate/1000.png"
+		},
+		{
+			"name": "1500_png",
+			"type": "image",
+			"url": "assets/rotate/1500.png"
+		},
+		{
+			"name": "2000_png",
+			"type": "image",
+			"url": "assets/rotate/2000.png"
+		},
+		{
+			"name": "3000_png",
+			"type": "image",
+			"url": "assets/rotate/3000.png"
+		},
+		{
+			"name": "5000_png",
+			"type": "image",
+			"url": "assets/rotate/5000.png"
+		},
+		{
+			"name": "免费抽奖_png",
+			"type": "image",
+			"url": "assets/rotate/免费抽奖.png"
+		},
+		{
+			"name": "关闭_png",
+			"type": "image",
+			"url": "assets/rotate/关闭.png"
+		},
+		{
+			"name": "发光色_png",
+			"type": "image",
+			"url": "assets/rotate/发光色.png"
+		},
+		{
+			"name": "3颗钻石_png",
+			"type": "image",
+			"url": "assets/rotate/奖品/3颗钻石.png"
+		},
+		{
+			"name": "一袋金币_png",
+			"type": "image",
+			"url": "assets/rotate/奖品/一袋金币.png"
+		},
+		{
+			"name": "宝箱_png",
+			"type": "image",
+			"url": "assets/rotate/奖品/宝箱.png"
+		},
+		{
+			"name": "记牌器_png",
+			"type": "image",
+			"url": "assets/rotate/奖品/记牌器.png"
+		},
+		{
+			"name": "道具盒_png",
+			"type": "image",
+			"url": "assets/rotate/奖品/道具盒.png"
+		},
+		{
+			"name": "金币_png",
+			"type": "image",
+			"url": "assets/rotate/奖品/金币.png"
+		},
+		{
+			"name": "金币箱_png",
+			"type": "image",
+			"url": "assets/rotate/奖品/金币箱.png"
+		},
+		{
+			"name": "钻石_png",
+			"type": "image",
+			"url": "assets/rotate/奖品/钻石.png"
+		},
+		{
+			"name": "底板_png",
+			"type": "image",
+			"url": "assets/rotate/底板.png"
+		},
+		{
+			"name": "数字底板_png",
+			"type": "image",
+			"url": "assets/rotate/数字底板.png"
+		},
+		{
+			"name": "文案_png",
+			"type": "image",
+			"url": "assets/rotate/文案.png"
+		},
+		{
+			"name": "文案框_png",
+			"type": "image",
+			"url": "assets/rotate/文案框.png"
+		},
+		{
+			"name": "星星_png",
+			"type": "image",
+			"url": "assets/rotate/星星.png"
+		},
+		{
+			"name": "未标题-1_png",
+			"type": "image",
+			"url": "assets/rotate/未标题-1.png"
+		},
+		{
+			"name": "标题_png",
+			"type": "image",
+			"url": "assets/rotate/标题.png"
+		},
+		{
+			"name": "箭头_png",
+			"type": "image",
+			"url": "assets/rotate/箭头.png"
+		},
+		{
+			"name": "转盘_png",
+			"type": "image",
+			"url": "assets/rotate/转盘.png"
+		},
+		{
+			"name": "转盘底板_png",
+			"type": "image",
+			"url": "assets/rotate/转盘底板.png"
+		},
+		{
+			"name": "选中框_png",
+			"type": "image",
+			"url": "assets/rotate/选中框.png"
+		},
+		{
+			"name": "金币框_png",
+			"type": "image",
+			"url": "assets/rotate/金币框.png"
+		}
+	]
+}

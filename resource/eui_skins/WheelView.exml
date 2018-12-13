@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="WheelViewSkin" width="501" height="363" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="16787c54029" ></w:Config>
+	<e:Image id="WheelViewSkin" width="501" height="325" source="未标题-1_png" fillMode="scale" x="0" y="0"/>
+	<e:Label id="dataText" text="10" x="415.66" y="74.83" anchorOffsetX="0" width="21.34" size="15" textAlign="left" textColor="0xfcc623" fontFamily="Verdana" inputType="10" verticalAlign="justify"/>
+	<e:Group id="suprise" x="170.81" y="23.77">
+		<e:Label text="惊喜大礼" x="0" y="47.72" fontFamily="Verdana" anchorOffsetX="0" width="58.67" anchorOffsetY="0" height="15.33" size="14" rotation="22.5"/>
+		<e:Image width="42.67" height="38.67" x="26.19" y="0" source="宝箱_png" anchorOffsetX="0" anchorOffsetY="0" rotation="22.5"/>
+	</e:Group>
+	<e:Group id="notebook" x="92.24" y="40.11">
+		<e:Label text="x1" x="14.19" y="39.74" fontFamily="Verdana" size="18" anchorOffsetX="-11.05" anchorOffsetY="-9.86" width="27.14" height="23.01" rotation="-22.5"/>
+		<e:Image width="40.67" height="41.34" x="0" y="0" source="记牌器_png" anchorOffsetX="0" anchorOffsetY="0" rotation="-22.5"/>
+	</e:Group>
+	<e:Group id="threeThousand" x="237.99" y="88.87">
+		<e:Label text="3000" x="0" y="19.9" anchorOffsetX="0" width="59.67" anchorOffsetY="0" height="22" size="18" rotation="67.5" fontFamily="Verdana"/>
+		<e:Image width="55.12" height="37.11" x="45.81" y="-0.85" source="一袋金币_png" anchorOffsetX="0" anchorOffsetY="0" rotation="67.5"/>
+	</e:Group>
+	<e:Group id="fiveHundred" x="27.53" y="130.2">
+		<e:Label text="500" x="50.46" y="14.44" size="18" rotation="-67.5" fontFamily="Verdana"/>
+		<e:Image width="43.33" height="36.67" x="0" y="0" source="金币_png" anchorOffsetX="0" anchorOffsetY="0" rotation="-67.5"/>
+	</e:Group>
+	<e:Group id="fiveThousand" x="256.82" y="179.2">
+		<e:Image width="50.51" height="43.6" x="44.49" y="18.98" source="金币箱_png" anchorOffsetX="0" anchorOffsetY="0" rotation="112.5"/>
+		<e:Label text="5000" x="0" y="0" size="18" fontFamily="Verdana" rotation="112.5" anchorOffsetX="2.78" anchorOffsetY="-5.48"/>
+	</e:Group>
+	<e:Group id="bilingbiling" x="203.81" y="241.33">
+		<e:Label text="x2" x="0" y="0" size="18" rotation="157.5" fontFamily="Verdana"/>
+		<e:Image width="35.89" height="34.82" x="24.88" y="39.82" source="3颗钻石_png" anchorOffsetX="0" anchorOffsetY="0" rotation="157.5"/>
+	</e:Group>
+	<e:Group id="toolgift" x="122.55" y="248.98">
+		<e:Label text="道具礼包" x="32.5" y="0" fontFamily="Verdana" size="13" rotation="-157.5"/>
+		<e:Image width="40" height="38.67" x="0" y="48.47" source="道具盒_png" anchorOffsetX="0" anchorOffsetY="0" rotation="-157.5"/>
+	</e:Group>
+	<e:Group id="biling" x="49.26" y="201.01">
+		<e:Label text="x1" x="39.07" y="0" fontFamily="Verdana" size="18" rotation="-112.5"/>
+		<e:Image width="40.67" height="39.33" x="-6.07" y="32.02" source="钻石_png" anchorOffsetX="0" anchorOffsetY="0" rotation="-112.5"/>
+	</e:Group>
+	<e:Group id="select" x="168" y="164.67" anchorOffsetY="160.67" height="160" anchorOffsetX="-2">
+		<e:Image id="shine" width="101.99" height="144.49" x="2.64" y="5.26" source="发光色_png" anchorOffsetX="0" anchorOffsetY="0" rotation="22.5"/>
+		<e:Image id="selected" width="112.97" height="151.34" x="0" y="0" source="选中框_png" anchorOffsetX="0" anchorOffsetY="0" rotation="22.5"/>
+	</e:Group>
+	<e:Image id="arrow" width="60.67" height="70.66" x="164.86" y="164.82" source="箭头_png" anchorOffsetX="28.13" anchorOffsetY="72.3" rotation="22.5"/>
+	<e:Group id="third" x="430.17" y="99.11">
+		<e:Label text="3天" x="7.83" y="0" size="12" backgroundColor="0xf9ad22" textColor="0xf9a918" fontFamily="Verdana"/>
+		<e:Image width="36.67" height="33.34" x="0" y="13" source="金币_png" anchorOffsetX="0" anchorOffsetY="0"/>
+		<e:Image width="34" height="12.67" x="2.67" y="41.43" source="1000_png" anchorOffsetX="0" anchorOffsetY="0"/>
+	</e:Group>
+	<e:Group id="seventh" x="352" y="162.76">
+		<e:Label text="7天" x="6.67" y="0" fontFamily="Verdana" size="12" textColor="0xf99516"/>
+		<e:Image width="37.33" height="34" x="0" y="12.58" source="金币_png" anchorOffsetX="0" anchorOffsetY="0"/>
+		<e:Image width="34" height="12.67" x="0" y="41.6" source="1500_png"/>
+	</e:Group>
+	<e:Group id="forteenth" x="429.34" y="162.34">
+		<e:Label text="14天" x="5.33" y="0" size="12" fontFamily="Verdana" textColor="0xf78b18" anchorOffsetY="0" height="14"/>
+		<e:Image width="39.33" height="34" x="0" y="12.42" source="金币_png" anchorOffsetX="0"/>
+		<e:Image width="34" height="12.67" x="2.33" y="40.67" source="2000_png"/>
+	</e:Group>
+	<e:Group id="twentyone" x="352.67" y="231.42">
+		<e:Label text="21天" x="4" y="0" size="12" fontFamily="Verdana" textColor="0xfc901e"/>
+		<e:Image width="38.66" height="36" x="0" y="9.91" source="金币_png" anchorOffsetX="0" anchorOffsetY="0"/>
+		<e:Image width="34" height="12.67" x="1" y="40.51" source="3000_png"/>
+	</e:Group>
+	<e:Group id="twentyeight" x="430.68" y="229.33">
+		<e:Image width="38.66" height="36" x="0" y="12" source="金币_png" anchorOffsetX="0" anchorOffsetY="0"/>
+		<e:Label text="28天" x="3.32" y="0" size="12" fontFamily="Verdana" textColor="0xfc8d2a"/>
+		<e:Image width="34" height="12.67" x="0.83" y="42.6" source="5000_png"/>
+	</e:Group>
+	<e:ToggleButton id="mbtnGift" label="" x="122.55" y="117.76" skinName="WheelGiftbtn" anchorOffsetX="0" width="88" anchorOffsetY="0" height="91">
+	</e:ToggleButton>
+</e:Skin>
